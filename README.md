@@ -72,5 +72,5 @@ Meu nome é **Kevin**, tenho 15 anos e sou apaixonado por tecnologia. Estudo e d
     alt="GitHub Stats" 
     height="100" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCMartins&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCMartins&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7&locale=pt-br" 
   />
