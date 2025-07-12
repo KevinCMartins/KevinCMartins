@@ -1,7 +1,7 @@
 # 👨‍💻 KevinCMartins
 **'Desenvolvedor Fullstack'**
 
-Meu nome é **Kevin**, tenho 15 anos e sou apaixonado por tecnologia. Estudo e desenvolvo projetos com **Python, HTML e CSS**, sempre buscando aprender mais na área de programação. Meu objetivo é evoluir como desenvolvedor e transformar ideias em soluções reais. Estou apenas começando, mas com muita vontade de crescer.
+Meu nome é **Kevin**, tenho 15 anos e sou gosto muito de tecnologia. Estudo e desenvolvo projetos com **Python, HTML e CSS**, sempre buscando aprender mais na área de programação. Meu objetivo é evoluir como desenvolvedor e transformar ideias em soluções reais. Estou apenas começando, mas com muita vontade de crescer.
 
 <p align="left">
       <a href="https://www.youtube.com/@Agent.MK.">
